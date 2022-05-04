@@ -2,7 +2,7 @@
 
 ### Projeto ministrado pela Origamid
 
-Em um dos cursos da origamid Web Design Completo, aprendi a desenvolver um site do completo 0, voltado a um site portfólio e vendas de bicicletas.
+Em um dos cursos da origamid Web Design Completo, aprendi a desenvolver um site do completo 0, voltado a um site de portfólio e vendas de bicicletas.
 
 Dentro do projeto foi útilizado:
 - HTML
