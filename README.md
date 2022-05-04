@@ -7,6 +7,7 @@ Em um dos cursos da origamid Web Design Completo, aprendi a desenvolver um site 
 Dentro do projeto foi útilizado:
 - HTML
 - CSS
+- JavaScript
 
 # Wireframe
 
